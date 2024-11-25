@@ -1,0 +1,2 @@
+# rfkjqctwnc
+SonatypeVerificationKey
